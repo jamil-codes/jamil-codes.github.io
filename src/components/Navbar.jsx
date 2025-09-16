@@ -53,11 +53,14 @@ const Navbar = () => {
           </a>
 
           {/* Theme Toggle */}
-          <button onClick={toggleTheme} className="ml-2 swap swap-rotate">
-            {/* Sun */}
+          <button
+            onClick={toggleTheme}
+            className="ml-2 p-2 rounded-full hover:bg-base-200 transition-colors"
+            aria-label="Toggle theme"
+          >
             {theme === "light" ? (
               <svg
-                className="w-5 h-5 swap-on"
+                className="w-5 h-5 text-base-content"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
@@ -73,7 +76,7 @@ const Navbar = () => {
               </svg>
             ) : (
               <svg
-                className="w-5 h-5 swap-off"
+                className="w-5 h-5 text-base-content"
                 xmlns="http://www.w3.org/2000/svg"
                 fill="none"
                 viewBox="0 0 24 24"
@@ -96,7 +99,7 @@ const Navbar = () => {
           onClick={() => setIsOpen(!isOpen)}
         >
           <svg
-            className="w-6 h-6"
+            className="w-6 h-6 text-base-content"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -124,18 +127,30 @@ const Navbar = () => {
       {isOpen && (
         <div className="md:hidden bg-base-100 border-t border-base-300 shadow-lg">
           <div className="flex flex-col items-center py-4 space-y-4">
-            <a href="https://github.com/jamil-codes" target="_blank">
+            <a
+              href="https://github.com/jamil-codes"
+              target="_blank"
+              className="text-base-content/80 hover:text-base-content"
+            >
               GitHub
             </a>
-            <a href="https://linkedin.com/in/jamilcodes" target="_blank">
+            <a
+              href="https://linkedin.com/in/jamilcodes"
+              target="_blank"
+              className="text-base-content/80 hover:text-base-content"
+            >
               LinkedIn
             </a>
 
             {/* Mobile Theme Toggle */}
-            <button onClick={toggleTheme} className="swap swap-rotate mt-2">
+            <button
+              onClick={toggleTheme}
+              className="p-2 rounded-full hover:bg-base-200 transition-colors"
+              aria-label="Toggle theme"
+            >
               {theme === "light" ? (
                 <svg
-                  className="w-5 h-5"
+                  className="w-5 h-5 text-base-content"
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
                   viewBox="0 0 24 24"
@@ -151,7 +166,7 @@ const Navbar = () => {
                 </svg>
               ) : (
                 <svg
-                  className="w-5 h-5"
+                  className="w-5 h-5 text-base-content"
                   xmlns="http://www.w3.org/2000/svg"
                   fill="none"
                   viewBox="0 0 24 24"
