@@ -9,14 +9,12 @@ export default function Home() {
 	const projects = [
 		{
 			title: "🛒 ShopEasy — Django E-Commerce",
-			description:
-				"A full-stack e-commerce platform built with Django REST Framework and SQL. Integrated with Stripe for payments, includes product management, authentication, and a responsive design.",
+			description: "A full-stack e-commerce platform built with Django REST Framework and SQL. Integrated with Stripe for payments, includes product management, authentication, and a responsive design.",
 			link: "https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe",
 		},
 		{
 			title: "📝 IBlog — Django Blog Platform",
-			description:
-				"A blogging web app built with Django, featuring post creation, categories, user authentication, and a clean responsive layout.",
+			description: "A blogging web app built with Django, featuring post creation, categories, user authentication, and a clean responsive layout.",
 			link: "https://github.com/jamil-codes/IBlog-Django",
 		},
 	];
@@ -26,8 +24,7 @@ export default function Home() {
 			role: "Full-Stack Web Developer",
 			company: "Freelancer",
 			period: "2024 - Present",
-			description:
-				"Building Django + Next.js projects, integrating Stripe and SQL databases, creating responsive and user-friendly web applications.",
+			description: "Building Django + Next.js projects, integrating Stripe and SQL databases, creating responsive and user-friendly web applications.",
 		},
 	];
 
@@ -36,43 +33,37 @@ export default function Home() {
 			name: "CS50: Web Programming with Python and JavaScript (CS50W)",
 			institution: "Harvard University / edX",
 			year: 2024,
-			description:
-				"Web development with Django, Python, JavaScript, HTML, CSS, SQL; built projects, worked on real-world app features.",
+			description: "Web development with Django, Python, JavaScript, HTML, CSS, SQL; built projects, worked on real-world app features.",
 		},
 		{
 			name: "CS50: Introduction to Computer Science (CS50x)",
 			institution: "Harvard University",
 			year: 2024,
-			description:
-				"Core computer science concepts: algorithms, C programming, memory, data structures, problem solving.",
+			description: "Core computer science concepts: algorithms, C programming, memory, data structures, problem solving.",
 		},
 		{
 			name: "Digital Video Editor (DVE)",
 			institution: "Some Platform / Organization",
 			year: 2023,
-			description:
-				"Video editing fundamentals, post-production, tools usage, storytelling via video.",
+			description: "Video editing fundamentals, post-production, tools usage, storytelling via video.",
 		},
 		{
 			name: "Advanced Search Engine Optimization",
 			institution: "Some Platform / Organization",
 			year: 2023,
-			description:
-				"SEO best practices, keyword research, analytics, content optimization.",
+			description: "SEO best practices, keyword research, analytics, content optimization.",
 		},
 		{
 			name: "Introduction to Programming Using Block-Based Languages",
 			institution: "Some Platform / Organization",
 			year: 2022,
-			description:
-				"Visual programming languages (e.g. Scratch), logic, basics of algorithms.",
+			description: "Visual programming languages (e.g. Scratch), logic, basics of algorithms.",
 		},
 		{
 			name: "IC3 Digital Literacy Certification",
 			institution: "IC3",
 			year: 2022,
-			description:
-				"Fundamental digital skills: computer usage, internet, basic applications, online safety.",
+			description: "Fundamental digital skills: computer usage, internet, basic applications, online safety.",
 		},
 	];
 
@@ -128,7 +119,7 @@ export default function Home() {
 			</section>
 
 			{/* About */}
-			<section className="py-24 px-6 bg-base-100 relative border-t border-base-200">
+			<section className="py-24 px-6 bg-base-100 border-t border-base-300">
 				<div className="max-w-5xl mx-auto text-center">
 					<motion.h2
 						initial="hidden"
@@ -139,13 +130,15 @@ export default function Home() {
 						About Me
 					</motion.h2>
 					<p className="text-lg leading-relaxed text-base-content/80">
-						I am a passionate full-stack web developer focused on building scalable, secure, and user-friendly applications. I love clean code, optimized databases, and seamless user experiences. Django REST Framework and Next.js are my main tools of choice.
+						I am a passionate full-stack web developer focused on building scalable, secure, and user-friendly applications. 
+						I love clean code, optimized databases, and seamless user experiences. 
+						Django REST Framework and Next.js are my main tools of choice.
 					</p>
 				</div>
 			</section>
 
 			{/* Skills */}
-			<section className="py-24 px-6 bg-base-200/60 relative border-t border-base-200">
+			<section className="py-24 px-6 bg-base-200/60 border-t border-base-300">
 				<div className="max-w-5xl mx-auto text-center">
 					<h2 className="text-4xl font-bold mb-10">Skills</h2>
 					<motion.div
@@ -168,7 +161,7 @@ export default function Home() {
 			</section>
 
 			{/* Projects */}
-			<section className="py-24 px-6 bg-base-100 relative border-t border-base-200">
+			<section className="py-24 px-6 bg-base-100 border-t border-base-300">
 				<div className="max-w-5xl mx-auto text-center">
 					<h2 className="text-4xl font-bold mb-10">Projects</h2>
 					<motion.div
@@ -198,7 +191,7 @@ export default function Home() {
 			</section>
 
 			{/* Experience */}
-			<section className="py-24 px-6 bg-base-200/60 relative border-t border-base-200">
+			<section className="py-24 px-6 bg-base-200/60 border-t border-base-300">
 				<div className="max-w-4xl mx-auto text-center">
 					<h2 className="text-4xl font-bold mb-10">Experience</h2>
 					<motion.div
@@ -224,7 +217,7 @@ export default function Home() {
 			</section>
 
 			{/* Certifications */}
-			<section className="py-24 px-6 bg-base-100 relative border-t border-base-200">
+			<section className="py-24 px-6 bg-base-100 border-t border-base-300">
 				<div className="max-w-4xl mx-auto text-center">
 					<h2 className="text-4xl font-bold mb-10">Certifications</h2>
 					<motion.div
@@ -250,7 +243,7 @@ export default function Home() {
 			</section>
 
 			{/* Contact */}
-			<section className="py-24 px-6 text-center bg-base-200/60 relative border-t border-base-200">
+			<section className="py-24 px-6 text-center bg-base-200/60 border-t border-base-300">
 				<h2 className="text-4xl font-bold mb-6">Contact Me</h2>
 				<p className="mb-6 text-base-content/70 max-w-2xl mx-auto">
 					Open to freelance projects or collaborations. Reach out via GitHub or LinkedIn.
@@ -272,7 +265,7 @@ export default function Home() {
 			</section>
 
 			{/* Footer */}
-			<footer className="py-8 border-t border-base-200 bg-base-100">
+			<footer className="py-8 border-t border-base-300 bg-base-100">
 				<div className="max-w-6xl mx-auto px-4 text-center">
 					<p className="text-sm text-base-content/70">
 						© {new Date().getFullYear()} <span className="font-semibold">Jamil Codes</span> · Built with Next.js & TailwindCSS
