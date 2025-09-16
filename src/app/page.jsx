@@ -89,7 +89,7 @@ export default function Home() {
 			{/* Hero */}
 			<section
 				ref={ref}
-				className="relative min-h-screen flex flex-col justify-center items-center text-center px-6 overflow-hidden">
+				className="relative min-h-[75dvh] flex flex-col justify-center items-center text-center px-6 overflow-hidden">
 				<motion.div
 					initial="hidden"
 					animate="visible"
