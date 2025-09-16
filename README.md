@@ -41,7 +41,7 @@ A modular, beginner-friendly Django blog template
 - Markdown content, responsive UI  
 - Admin Dashboard<br/><br/>
 
-### 📗 [E-Commerce Django](https://github.com/jamil-codes/ecommerce-django)
+### 📗 [E-Commerce Django](https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe)
 A full-featured Django e-commerce site with Stripe integration  
 - Product catalog, shopping cart, checkout  
 - User authentication, order history  
