@@ -21,6 +21,9 @@ export const metadata = {
 	description: "Full-stack showcase by Jamil Codes: Django back-end, Next.js & React front-end, open-source templates, DevOps examples, built for real-world impact.",
 	keywords: ["Jamil Codes", "Full-stack Developer", "Django", "Next.js", "React", "TailwindCSS", "Open Source", "DevOps", "Portfolio"],
 	authors: [{ name: "Jamil Ahmed", url: "https://github.com/jamil-codes" }],
+	verification: {
+    google: "google-site-verification=lsdRd2YPdm8D3hXPtss6Q3QqlGivHS4dBc1kkIfJvX8",
+ 	},
 	openGraph: {
 		title: "Jamil Codes — Full-Stack Developer",
 		description: "Portfolio of Django & Next.js projects, templates, DevOps examples, and open source. Built with clean architecture and practical tools.",
