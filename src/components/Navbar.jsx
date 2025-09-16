@@ -101,21 +101,52 @@ const Navbar = () => {
 
 			{/* Mobile Menu */}
 			{isOpen && (
-				<div className="md:hidden bg-base-100 border-t border-base-300 shadow-lg">
-					<div className="flex flex-col items-center py-4 space-y-4">
-						<a
-							href="https://github.com/jamil-codes"
-							target="_blank">
-							GitHub
-						</a>
-						<a
-							href="https://linkedin.com/in/jamilcodes"
-							target="_blank">
-							LinkedIn
-						</a>
-					</div>
-				</div>
-			)}
+	<div className="md:hidden bg-base-100 border-t border-base-300 shadow-lg">
+		<div className="flex flex-col items-center py-4 space-y-4">
+			<a href="https://github.com/jamil-codes" target="_blank">
+				GitHub
+			</a>
+			<a href="https://linkedin.com/in/jamilcodes" target="_blank">
+				LinkedIn
+			</a>
+
+			{/* Mobile Theme Toggle */}
+			<label className="swap swap-rotate mt-2">
+				<input type="checkbox" className="theme-controller" value="dark" />
+				{/* Sun */}
+				<svg
+					className="swap-on w-5 h-5"
+					xmlns="http://www.w3.org/2000/svg"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke="currentColor">
+					<circle cx="12" cy="12" r="4" strokeWidth="2" />
+					<path
+						strokeLinecap="round"
+						strokeLinejoin="round"
+						strokeWidth="2"
+						d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"
+					/>
+				</svg>
+				{/* Moon */}
+				<svg
+					className="swap-off w-5 h-5"
+					xmlns="http://www.w3.org/2000/svg"
+					fill="none"
+					viewBox="0 0 24 24"
+					stroke="currentColor">
+					<path
+						strokeLinecap="round"
+						strokeLinejoin="round"
+						strokeWidth="2"
+						d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"
+					/>
+				</svg>
+			</label>
+		</div>
+	</div>
+)}
+
 		</nav>
 	);
 };
