@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 👋 Hi, I’m **Jamil Ahmed** — _Jamil Codes_
 
-First, run the development server:
+I’m a self-taught full-stack web developer from Pakistan, building robust, production-ready applications with **Django** on the backend and **React/Next.js** on the frontend. I focus on **lean progress**, **clean architecture**, and **delivering real value** — not chasing perfection.<br/><br/>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 What I Do
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Backend Development**  
+  - RESTful APIs with **Django** & **Django REST Framework**  
+  - performance optimization, authentication systems 
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Frontend Development**  
+  - Interactive, SEO-optimized interfaces using **Next.js** & **React**  
+  - Responsive UI with **Tailwind CSS**, **CSS Modules**, **SASS**  
+  - Image optimization, static generation (ISR), and SSR
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Full-Stack Applications**  
+  - Deployed on **Vercel**, **DigitalOcean**, or **Render**  
+  - Nginx, and custom domains  
+  - Version control, feature branching, clean commit history<br/><br/>
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🛠️ Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Layer       | Tools & Technologies |
+|-------------|-----------------------|
+| **Backend** | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/) |
+| **Frontend**| [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/) [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) |
+| **Styling** | [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) |
+| **DevOps**  | [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)](https://www.digitalocean.com/) |
+| **Database**| [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/) |
+| **Others**  | [![REST](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge)](https://restfulapi.net/) |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<br/>
 
-## Deploy on Vercel
+## 🔍 Key Projects
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 📘 [IBlog Django](https://github.com/jamil-codes/IBlog-Django)
+A modular, beginner-friendly Django blog template  
+- Categories, Posts, Contact  
+- Markdown content, responsive UI  
+- Admin Dashboard<br/><br/>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🎯 Current Focus
+- ✅ Mastering advanced Django features (Signals, Middleware, Admin Customization)  
+- ✅ Mastering **Next.js** 
+- ✅ Building full-stack open-source templates for real-world use  
+- ✅ Leveling up in DevOps (Docker, CI/CD)  
+- ✅ Writing clean, scalable, production-grade code<br/><br/>
+
+## 📊 GitHub Stats
+[![](https://nirzak-streak-stats.vercel.app/?user=jamil-codes&theme=radical&hide_border=false)](#)
+<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-codes&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)
+<br/>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilcodes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamilcodes@gmail.com?subject=Hello%20Jamil&body=I%20saw%20your%20GitHub%20profile...)
+<br/><br/>
+
+> _“Perfection is the enemy of progress. Build, learn, iterate, and ship.”_  
+> — **Jamil Codes**
