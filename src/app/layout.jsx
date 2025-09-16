@@ -22,7 +22,7 @@ export const metadata = {
 	keywords: ["Jamil Codes", "Full-stack Developer", "Django", "Next.js", "React", "TailwindCSS", "Open Source", "DevOps", "Portfolio"],
 	authors: [{ name: "Jamil Ahmed", url: "https://github.com/jamil-codes" }],
 	verification: {
-    google: "google-site-verification=lsdRd2YPdm8D3hXPtss6Q3QqlGivHS4dBc1kkIfJvX8",
+    google: "tTYUedjvegPsaCWEzQe8Rg4NwiolCwO1GHxP5ewpTj0",
  	},
 	openGraph: {
 		title: "Jamil Codes — Full-Stack Developer",
