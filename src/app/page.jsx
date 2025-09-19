@@ -17,6 +17,11 @@ export default function Home() {
 			description: "A blogging web app built with Django, featuring post creation, categories, user authentication, and a clean responsive layout.",
 			link: "https://github.com/jamil-codes/IBlog-Django",
 		},
+		{
+			title: "💰 BudgetWise — Django Expense Tracker",
+			description: "A personal finance management app built with Django. Allows users to track income, categorize expenses, view reports, and manage budgets with a simple, intuitive interface.",
+			link: "https://github.com/jamil-codes/BudgetWise-Django",
+		},
 	];
 
 	const experience = [
