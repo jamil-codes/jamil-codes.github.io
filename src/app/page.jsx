@@ -126,7 +126,7 @@ export default function Home() {
 							GitHub
 						</a>
 						<a
-							href="https://linkedin.com/in/jamilcodes"
+							href="https://www.linkedin.com/in/jamilcodes"
 							target="_blank"
 							className="px-6 py-3 rounded-lg border border-primary text-primary font-medium hover:bg-primary hover:text-white transition">
 							LinkedIn
@@ -273,7 +273,7 @@ export default function Home() {
 						GitHub
 					</a>
 					<a
-						href="https://linkedin.com/in/jamilcodes"
+						href="https://www.linkedin.com/in/jamilcodes"
 						target="_blank"
 						className="px-6 py-3 rounded-lg border border-primary text-primary font-medium hover:bg-primary hover:text-white transition">
 						LinkedIn
