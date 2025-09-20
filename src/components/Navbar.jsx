@@ -45,7 +45,7 @@ const Navbar = () => {
             GitHub
           </a>
           <a
-            href="linkedin.com/in/jamilcodes"
+            href="https://linkedin.com/in/jamilcodes"
             target="_blank"
             className="text-base-content/80 hover:text-base-content transition-colors"
           >
