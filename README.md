@@ -47,6 +47,11 @@ A full-featured Django e-commerce site with Stripe integration
 - User authentication, order history  
 - Responsive design, payment gateway support<br/><br/>
 
+### 📙 [BudgetWise Django](https://github.com/jamil-codes/BudgetWise-Django)
+A personal finance and budget management web app built with Django  
+- Track income, expenses, and savings goals  
+- Category-wise expense breakdowns  
+- User authentication and personalized dashboards<br/><br/>
 
 ## 🎯 Current Focus
 - ✅ Mastering advanced Django features (Signals, Middleware, Admin Customization)  
