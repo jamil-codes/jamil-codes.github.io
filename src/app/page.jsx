@@ -4,7 +4,19 @@ import { motion } from "framer-motion";
 import { useRef } from "react";
 
 export default function Home() {
-	const skills = ["HTML", "CSS", "JavaScript", "SQL", "Django", "DRF", "Next.js", "TailwindCSS", "Flowbite"];
+	const skills = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "SQL",
+  "Django",
+  "DRF",
+  "Next.js",
+  "TailwindCSS",
+  "Flowbite",
+  "Stripe"
+];
+
 
 	const projects = [
 		{
@@ -255,7 +267,7 @@ export default function Home() {
 				</p>
 				<div className="flex gap-4 justify-center">
 					<a
-						href="https://github.com/jamil-codes"
+						href="github.com/jamil-codes"
 						target="_blank"
 						className="px-6 py-3 rounded-lg bg-primary text-white font-medium hover:bg-primary/90 transition">
 						GitHub
