@@ -19,22 +19,32 @@ export default function Home() {
 
 
 	const projects = [
-		{
-			title: "🛒 ShopEasy — Django E-Commerce",
-			description: "A full-stack e-commerce platform built with Django REST Framework and SQL. Integrated with Stripe for payments, includes product management, authentication, and a responsive design.",
-			link: "https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe",
-		},
-		{
-			title: "📝 IBlog — Django Blog Platform",
-			description: "A blogging web app built with Django, featuring post creation, categories, user authentication, and a clean responsive layout.",
-			link: "https://github.com/jamil-codes/IBlog-Django",
-		},
-		{
-			title: "💰 BudgetWise — Django Expense Tracker",
-			description: "A personal finance management app built with Django. Allows users to track income, categorize expenses, view reports, and manage budgets with a simple, intuitive interface.",
-			link: "https://github.com/jamil-codes/BudgetWise-Django",
-		},
+	  {
+	    title: "🛒 ShopEasy — Django E-Commerce",
+	    description:
+	      "A full-stack e-commerce platform built with Django REST Framework and SQL. Integrated with Stripe for payments, includes product management, authentication, and a responsive design.",
+	    link: "https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe",
+	  },
+	  {
+	    title: "📝 IBlog — Django Blog Platform",
+	    description:
+	      "A blogging web app built with Django, featuring post creation, categories, user authentication, and a clean responsive layout.",
+	    link: "https://github.com/jamil-codes/IBlog-Django",
+	  },
+	  {
+	    title: "💰 BudgetWise — Django Expense Tracker",
+	    description:
+	      "A personal finance management app built with Django. Allows users to track income, categorize expenses, view reports, and manage budgets with a simple, intuitive interface.",
+	    link: "https://github.com/jamil-codes/BudgetWise-Django",
+	  },
+	  {
+	    title: "🎨 Tonalize — Color Palette Generator",
+	    description:
+	      "A web app built with Next.js and TypeScript that generates harmonious color palettes for designers and developers. Features palette customization, preview, and export options.",
+	    link: "https://github.com/jamil-codes/Tonalize",
+	  },
 	];
+
 
 	const experience = [
 		{
