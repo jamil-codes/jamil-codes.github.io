@@ -15,12 +15,22 @@
 
   <!-- Projects -->
   <url>
+    <loc>https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://github.com/jamil-codes/IBlog-Django</loc>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe</loc>
+    <loc>https://github.com/jamil-codes/BudgetWise-Django</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://jamil-codes.github.io/Tonalize/</loc>
     <priority>0.8</priority>
   </url>
 
@@ -29,6 +39,9 @@
     <loc>https://www.linkedin.com/in/jamilcodes/</loc>
     <priority>0.5</priority>
   </url>
-
+  <url>
+    <loc>https://github.com/jamil-codes</loc>
+    <priority>0.5</priority>
+  </url>
 
 </urlset>
