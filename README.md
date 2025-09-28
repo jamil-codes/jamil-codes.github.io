@@ -67,7 +67,7 @@ A personal finance and budget management web app built with Django
 <br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilcodes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jamilcodes@gmail.com?subject=Hello%20Jamil&body=I%20saw%20your%20GitHub%20profile...)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilcodes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@jamilcodes.com?subject=Hello%20Jamil&body=I%20saw%20your%20GitHub%20profile...)
 <br/><br/>
 
 > _“Perfection is the enemy of progress. Build, learn, iterate, and ship.”_  
