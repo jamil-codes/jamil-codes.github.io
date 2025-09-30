@@ -13,7 +13,6 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://jamilcodes.com"),
   title: {
     default: "Jamil Codes — Full-Stack Developer",
     template: "%s | Jamil Codes",
@@ -59,6 +58,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning>
+      <head>
+        <link rel="canonical" href="https://jamilcodes.com/" />
+      </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         {children}
       </body>
