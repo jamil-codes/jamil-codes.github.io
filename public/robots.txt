@@ -1,0 +1,10 @@
+# Allow all search engines to crawl the main site
+User-agent: *
+Allow: /
+
+# Block unnecessary system folders (adjust if you use them)
+Disallow: /admin/
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://jamilcodes.com/sitemap.xml
