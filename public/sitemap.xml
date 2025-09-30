@@ -1,37 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- Root GitHub Pages -->
+  <!-- Root Website -->
   <url>
-    <loc>https://jamil-codes.github.io/</loc>
+    <loc>https://jamilcodes.com/</loc>
     <priority>1.0</priority>
   </url>
-
-  <!-- Portfolio -->
+  
+  <!-- Project Demo -->
   <url>
-    <loc>https://jamil-codes.github.io/jamil-codes/</loc>
-    <priority>1.0</priority>
+    <loc>https://jamilcodes.com/tonalize/</loc>
+    <priority>0.8</priority>
   </url>
 
-  <!-- Projects -->
+  <!-- GitHub Projects -->
   <url>
     <loc>https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe</loc>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-
   <url>
     <loc>https://github.com/jamil-codes/IBlog-Django</loc>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
-
   <url>
     <loc>https://github.com/jamil-codes/BudgetWise-Django</loc>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://jamil-codes.github.io/Tonalize/</loc>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
 
   <!-- Socials -->
