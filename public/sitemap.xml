@@ -13,20 +13,6 @@
     <priority>0.8</priority>
   </url>
 
-  <!-- GitHub Projects -->
-  <url>
-    <loc>https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://github.com/jamil-codes/IBlog-Django</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://github.com/jamil-codes/BudgetWise-Django</loc>
-    <priority>0.7</priority>
-  </url>
-
   <!-- Socials -->
   <url>
     <loc>https://www.linkedin.com/in/jamilcodes/</loc>
