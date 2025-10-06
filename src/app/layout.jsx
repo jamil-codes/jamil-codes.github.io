@@ -60,7 +60,7 @@ export default function RootLayout({ children }) {
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="canonical" href="https://jamilcodes.com/" />
-        <link rel="sitemap" type="application/xml" title="Sitemap" href="https://jamilcodes.com/sitemap.xml">
+        <link rel="sitemap" type="application/xml" title="Sitemap" href="https://jamilcodes.com/sitemap.xml" />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         {children}
