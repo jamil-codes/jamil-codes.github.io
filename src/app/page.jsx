@@ -5,17 +5,18 @@ import { useRef } from "react";
 
 export default function Home() {
 	const skills = [
-  "HTML",
-  "CSS",
-  "JavaScript",
-  "SQL",
-  "Django",
-  "DRF",
-  "Next.js",
-  "TailwindCSS",
-  "Flowbite",
-  "Stripe"
-];
+	  "HTML",
+	  "CSS",
+	  "JavaScript",
+	  "SQL",
+	  "Django",
+	  "DRF",
+	  "Next.js",
+	  "TailwindCSS",
+	  "Flowbite",
+	  "DaisyUI",
+	  "Stripe"
+	];
 
 
 	const projects = [
