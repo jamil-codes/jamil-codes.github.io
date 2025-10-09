@@ -280,7 +280,7 @@ export default function Home() {
 			<section className="py-24 px-6 text-center bg-base-200/60 border-t border-base-300">
 				<h2 className="text-4xl font-bold mb-6">Contact Me</h2>
 				<p className="mb-6 text-base-content/70 max-w-2xl mx-auto">
-					Open to freelance projects or collaborations. Reach out via GitHub or LinkedIn.
+					Reach out via GitHub or LinkedIn.
 				</p>
 				<div className="flex gap-4 justify-center">
 					<a
