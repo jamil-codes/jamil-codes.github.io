@@ -38,7 +38,7 @@ export const metadata = {
     title: "Jamil Codes — Full-Stack Developer",
     description:
       "Portfolio of Django & Next.js projects, templates, DevOps examples, and open source. Built with clean architecture and practical tools.",
-    url: "https://jamilcodes.com",
+    url: "https://demo.jamilcodes.com",
     siteName: "Jamil Codes",
     locale: "en_US",
     type: "website",
@@ -59,8 +59,8 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="canonical" href="https://jamilcodes.com/" />
-        <link rel="sitemap" type="application/xml" title="Sitemap" href="https://jamilcodes.com/sitemap.xml" />
+        <link rel="canonical" href="https://demo.jamilcodes.com/" />
+        <link rel="sitemap" type="application/xml" title="Sitemap" href="https://demo.jamilcodes.com/sitemap.xml" />
       </head>
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         {children}
