@@ -3,13 +3,13 @@
 
   <!-- Root Website -->
   <url>
-    <loc>https://jamilcodes.com/</loc>
+    <loc>https://demo.jamilcodes.com/</loc>
     <priority>1.0</priority>
   </url>
   
   <!-- Project Demo -->
   <url>
-    <loc>https://jamilcodes.com/Tonalize/</loc>
+    <loc>https://demo.jamilcodes.com/Tonalize/</loc>
     <priority>0.8</priority>
   </url>
 
