@@ -1,5 +1,12 @@
-import { redirect } from "next/navigation";
-
 export default function Page() {
-  redirect("https://demo.jamilcodes.com/Cari/");
+  return (
+    <html>
+      <head>
+        <meta httpEquiv="refresh" content="0; url=https://demo.jamilcodes.com/Cari/" />
+      </head>
+      <body>
+        Redirecting...
+      </body>
+    </html>
+  );
 }
