@@ -1,64 +1,188 @@
+<div align="center">
 
-# 👋 Hi, I’m **Jamil Ahmed** — _Jamil Codes_
-
-I’m a self-taught full-stack web developer from Pakistan, building robust, production-ready applications with **Django** on the backend and **React/Next.js** on the frontend. I focus on **lean progress**, **clean architecture**, and **delivering real value** — not chasing perfection.<br/><br/>
-
-## 🚀 What I Do
-
-- **Backend Development**  
-  - RESTful APIs with **Django** & **Django REST Framework**  
-  - performance optimization, authentication systems 
-
-- **Frontend Development**  
-  - Interactive, SEO-optimized interfaces using **Next.js** & **React**  
-  - Responsive UI with **Tailwind CSS**, **CSS Modules**, **SASS**  
-  - Image optimization, static generation (ISR), and SSR
-
-- **Full-Stack Applications**  
-  - Deployed on **Vercel**, **DigitalOcean**, or **Render**  
-  - Nginx, and custom domains  
-  - Version control, feature branching, clean commit history<br/><br/>
-
-
-## 🛠️ Tech Stack
-
-| Layer       | Tools & Technologies |
-|-------------|-----------------------|
-| **Backend** | [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/) [![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/) [![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org/) |
-| **Frontend**| [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/) [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/) |
-| **Styling** | [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/) [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) |
-| **DevOps**  | [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/) [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/) [![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)](https://render.com/) [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)](https://www.digitalocean.com/) |
-| **Database**| [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org/) |
-| **Others**  | [![REST](https://img.shields.io/badge/REST-API-%23000000.svg?style=for-the-badge)](https://restfulapi.net/) |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1a3d,70:1e1b4b,100:2d1f6e&height=200&section=header&text=Jamil%20Ahmed&fontSize=50&fontColor=ffffff&fontAlignY=30&desc=Full-Stack%20Developer%20%7C%20API%20Builder%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descSize=16&descAlignY=50&descColor=a5b4fc&animation=fadeIn" width="100%"/>
 
 <br/>
 
-## 🔍 Key Projects
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=818CF8&center=true&vCenter=true&width=640&height=40&lines=Built+SendFleet+%E2%80%94+Transactional+Email+API;Django+%2B+Next.js+Full-Stack+Developer;Published+on+PyPI+%7C+django-admin-trap;Open+for+Freelance+%E2%80%94+Let%27s+build+something.)](https://readme-typing-svg.demolab.com)
 
-### 📘 [IBlog Django](https://github.com/jamil-codes/IBlog-Django)
-A modular, beginner-friendly Django blog template  
-- Categories, Posts, Contact  
-- Markdown content, responsive UI  
-- Admin Dashboard<br/><br/>
+<br/>
 
-### 📗 [E-Commerce Django](https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe)
-A full-featured Django e-commerce site with Stripe integration  
-- Product catalog, shopping cart, checkout  
-- User authentication, order history  
-- Responsive design, payment gateway support<br/><br/>
+[![Website](https://img.shields.io/badge/jamilcodes.com-0f1a3d?style=for-the-badge&logo=google-chrome&logoColor=818cf8)](https://jamilcodes.com)&nbsp;
+[![SendFleet](https://img.shields.io/badge/SendFleet_API-0f1a3d?style=for-the-badge&logo=minutemailer&logoColor=60a5fa)](https://sendfleet.net)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f1a3d?style=for-the-badge&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/jamilcodes/)&nbsp;
+[![Email](https://img.shields.io/badge/Email-0f1a3d?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:contact@jamilcodes.com)
 
-### 📙 [BudgetWise Django](https://github.com/jamil-codes/BudgetWise-Django)
-A personal finance and budget management web app built with Django  
-- Track income, expenses, and savings goals  
-- Category-wise expense breakdowns  
-- User authentication and personalized dashboards<br/><br/>
+<br/>
 
-## 🎯 Current Focus
-- ✅ Mastering advanced Django features (Signals, Middleware, Admin Customization)  
-- ✅ Mastering **Next.js** 
-- ✅ Building full-stack open-source templates for real-world use  
-- ✅ Leveling up in DevOps (Docker, CI/CD)  
-- ✅ Writing clean, scalable, production-grade code<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=jamil-codes&style=for-the-badge&color=2563eb&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## `whoami`
+
+```python
+class JamilAhmed:
+    name      = "Jamil Ahmed"
+    alias     = "Jamil Codes"
+    location  = "Pakistan 🇵🇰"
+    website   = "jamilcodes.com"
+
+    stack     = [
+        "Django", "DRF",
+        "Next.js", "React",
+        "PostgreSQL", "Docker"
+    ]
+
+    building  = "SendFleet (sendfleet.net)"
+    on_pypi   = "django-admin-trap"
+
+    available = True  # open to freelance
+    contact   = "contact@jamilcodes.com"
+
+    motto     = "Build. Ship. Iterate."
+```
+
+<br clear="right"/>
+
+---
+
+## 🚀 What I Build
+
+<table>
+  <tr>
+    <td>⚙️ <b>Backend</b></td>
+    <td>Django · Django REST Framework · Auth Systems · REST APIs · Performance Optimization</td>
+  </tr>
+  <tr>
+    <td>🎨 <b>Frontend</b></td>
+    <td>Next.js · React · TypeScript · Tailwind CSS · SASS · SSR · ISR · SEO</td>
+  </tr>
+  <tr>
+    <td>🗄️ <b>Database</b></td>
+    <td>PostgreSQL · SQLite · Query Optimization</td>
+  </tr>
+  <tr>
+    <td>🐳 <b>DevOps</b></td>
+    <td>Docker · Nginx · Vercel · DigitalOcean · Render · CI/CD · Git</td>
+  </tr>
+  <tr>
+    <td>📡 <b>Email Infra</b></td>
+    <td>Transactional Email · SMTP · Webhooks · API Design (SendFleet)</td>
+  </tr>
+</table>
+
+---
+
+## ⚡ Featured Projects
+
+<div align="center">
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<h3 align="center">📡 SendFleet</h3>
+<div align="center">
+  <a href="https://sendfleet.net">
+    <img src="https://img.shields.io/badge/🌐_Live-sendfleet.net-2563eb?style=flat-square"/>
+  </a>
+</div>
+<br/>
+
+**Transactional Email API** — built from scratch.
+
+Send receipts, OTPs, password resets & notifications via a clean REST interface. Developer-first. Zero bloat.
+
+![Django](https://img.shields.io/badge/Django-1e1b4b?style=flat-square&logo=django&logoColor=a5b4fc)
+![REST](https://img.shields.io/badge/REST_API-2563eb?style=flat-square)
+![SMTP](https://img.shields.io/badge/SMTP-3b82f6?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-7c3aed?style=flat-square)
+
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">🚨 django-admin-trap</h3>
+<div align="center">
+  <a href="https://github.com/jamil-codes/django-admin-trap">
+    <img src="https://img.shields.io/badge/PyPI-Published-2563eb?style=flat-square&logo=pypi&logoColor=white"/>
+  </a>
+</div>
+<br/>
+
+**Security Honeypot · PyPI Package**
+
+Stateless fake Django admin that traps attackers. Zero DB ops. Django 5.0+. Plug & play.
+
+```bash
+pip install django-admin-trap
+```
+
+![Security](https://img.shields.io/badge/Honeypot-7c3aed?style=flat-square)
+![Django](https://img.shields.io/badge/Django_5.0+-1e1b4b?style=flat-square&logo=django&logoColor=a5b4fc)
+
+</td>
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+<h3 align="center">🎟️ Eventify</h3>
+<div align="center">
+  <a href="https://github.com/jamil-codes/Eventify-Djanog-Event-Management">
+    <img src="https://img.shields.io/badge/GitHub-View_Repo-0f1a3d?style=flat-square&logo=github&logoColor=818cf8"/>
+  </a>
+</div>
+<br/>
+
+**Event Management Platform**
+
+Create events → sell tickets → Stripe payments → QR check-in → organizer dashboard.
+
+![Django](https://img.shields.io/badge/Django-1e1b4b?style=flat-square&logo=django&logoColor=a5b4fc)
+![Stripe](https://img.shields.io/badge/Stripe-2563eb?style=flat-square&logo=stripe&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3b82f6?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+
+<td width="50%" valign="top">
+<h3 align="center">🛒 ShopEasy</h3>
+<div align="center">
+  <a href="https://github.com/jamil-codes/ShopEasy-Django-E-Commerce-with-Stripe">
+    <img src="https://img.shields.io/badge/GitHub-View_Repo-0f1a3d?style=flat-square&logo=github&logoColor=818cf8"/>
+  </a>
+</div>
+<br/>
+
+**Django E-Commerce**
+
+Product catalog · cart · Stripe checkout · order history · auth. Production-ready.
+
+![Django](https://img.shields.io/badge/Django-1e1b4b?style=flat-square&logo=django&logoColor=a5b4fc)
+![Stripe](https://img.shields.io/badge/Stripe-2563eb?style=flat-square&logo=stripe&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3b82f6?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,js,ts,react,nextjs&theme=dark&perline=6" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=tailwind,sass,postgres,docker,git,nginx&theme=dark&perline=6" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vercel,github,vscode,linux&theme=dark&perline=6" />
+
+</div>
+
+---
+
 
 ## 📊 GitHub Stats
 [![](https://nirzak-streak-stats.vercel.app/?user=jamil-codes&theme=radical&hide_border=false)](#)
@@ -66,9 +190,23 @@ A personal finance and budget management web app built with Django
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamil-codes&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](#)
 <br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamilcodes/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@jamilcodes.com?subject=Hello%20Jamil&body=I%20saw%20your%20GitHub%20profile...)
-<br/><br/>
+## 🤝 Let's Build Something
+
+<div align="center">
 
 > _“Perfection is the enemy of progress. Build, learn, iterate, and ship.”_  
-> — **Jamil Codes**
+> Got a project? Let's talk.
+
+<br/>
+
+[![Hire Me](https://img.shields.io/badge/💼_Available_for_Freelance-Contact_Me-2563eb?style=for-the-badge)](mailto:contact@jamilcodes.com?subject=Freelance%20Project&body=Hi%20Jamil%2C%20I%20found%20you%20on%20GitHub...)
+&nbsp;
+[![SendFleet](https://img.shields.io/badge/📡_Try_SendFleet_API-sendfleet.net-7c3aed?style=for-the-badge)](https://sendfleet.net)
+
+<br/><br/>
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1f6e,50:1e1b4b,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
